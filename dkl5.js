@@ -3,25 +3,25 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"dkl4_atlas_", frames: [[0,0,865,364]]},
-		{name:"dkl4_atlas_2", frames: [[0,0,865,364]]},
-		{name:"dkl4_atlas_3", frames: [[0,0,865,364]]},
-		{name:"dkl4_atlas_4", frames: [[0,0,865,364]]},
-		{name:"dkl4_atlas_5", frames: [[0,0,865,364]]},
-		{name:"dkl4_atlas_6", frames: [[0,0,866,361]]},
-		{name:"dkl4_atlas_7", frames: [[0,0,865,361]]},
-		{name:"dkl4_atlas_8", frames: [[0,0,865,361]]},
-		{name:"dkl4_atlas_9", frames: [[0,0,865,361]]},
-		{name:"dkl4_atlas_10", frames: [[0,0,865,361]]},
-		{name:"dkl4_atlas_11", frames: [[0,0,865,361]]},
-		{name:"dkl4_atlas_12", frames: [[0,212,794,210],[0,0,795,210]]},
-		{name:"dkl4_atlas_13", frames: [[0,0,794,210],[0,212,794,210]]},
-		{name:"dkl4_atlas_14", frames: [[0,212,794,210],[0,0,794,210]]},
-		{name:"dkl4_atlas_15", frames: [[0,0,774,211],[0,213,774,210]]},
-		{name:"dkl4_atlas_16", frames: [[0,0,774,210],[0,212,774,210]]},
-		{name:"dkl4_atlas_17", frames: [[0,0,774,210],[0,212,774,210],[0,424,737,100]]},
-		{name:"dkl4_atlas_18", frames: [[460,398,253,29],[0,234,555,100],[911,234,20,253],[557,234,320,84],[813,429,43,84],[858,429,43,84],[0,412,458,70],[0,484,334,52],[557,320,116,76],[675,320,116,76],[793,320,116,76],[0,78,946,76],[0,156,946,76],[0,0,946,76],[0,336,451,74],[460,429,219,29],[715,398,165,29],[681,429,130,29],[460,460,130,29],[592,460,167,22]]},
-		{name:"dkl4_atlas_19", frames: [[0,0,43,84],[45,0,42,84],[89,0,42,84],[133,0,42,84],[0,86,135,23],[0,111,135,23],[177,0,64,29],[177,31,46,23],[177,56,46,23],[137,86,78,23],[137,111,78,23]]}
+		{name:"dkl5_atlas_", frames: [[0,0,865,364]]},
+		{name:"dkl5_atlas_2", frames: [[0,0,865,364]]},
+		{name:"dkl5_atlas_3", frames: [[0,0,865,364]]},
+		{name:"dkl5_atlas_4", frames: [[0,0,865,364]]},
+		{name:"dkl5_atlas_5", frames: [[0,0,865,364]]},
+		{name:"dkl5_atlas_6", frames: [[0,0,866,361]]},
+		{name:"dkl5_atlas_7", frames: [[0,0,865,361]]},
+		{name:"dkl5_atlas_8", frames: [[0,0,865,361]]},
+		{name:"dkl5_atlas_9", frames: [[0,0,865,361]]},
+		{name:"dkl5_atlas_10", frames: [[0,0,865,361]]},
+		{name:"dkl5_atlas_11", frames: [[0,0,865,361]]},
+		{name:"dkl5_atlas_12", frames: [[0,212,794,210],[0,0,795,210]]},
+		{name:"dkl5_atlas_13", frames: [[0,0,794,210],[0,212,794,210]]},
+		{name:"dkl5_atlas_14", frames: [[0,0,794,210],[0,212,794,210]]},
+		{name:"dkl5_atlas_15", frames: [[0,0,774,211],[0,213,774,210]]},
+		{name:"dkl5_atlas_16", frames: [[0,0,774,210],[0,212,774,210]]},
+		{name:"dkl5_atlas_17", frames: [[0,0,774,210],[0,212,774,210],[0,424,737,100]]},
+		{name:"dkl5_atlas_18", frames: [[460,398,253,29],[557,234,320,84],[858,429,43,84],[813,429,43,84],[0,412,458,70],[0,484,334,52],[793,320,116,76],[557,320,116,76],[675,320,116,76],[0,0,946,76],[0,78,946,76],[0,156,946,76],[0,336,451,74],[0,234,555,100],[911,234,20,253],[460,429,219,29],[715,398,165,29],[460,460,130,29],[681,429,130,29],[592,460,167,22]]},
+		{name:"dkl5_atlas_19", frames: [[0,0,43,84],[45,0,42,84],[89,0,42,84],[133,0,42,84],[0,86,135,23],[0,111,135,23],[177,0,64,29],[177,31,46,23],[177,56,46,23],[137,86,78,23],[137,111,78,23]]}
 ];
 
 
@@ -30,98 +30,98 @@ lib.ssMetadata = [
 
 
 (lib._1cbk = function() {
-	this.initialize(ss["dkl4_atlas_14"]);
+	this.initialize(ss["dkl5_atlas_12"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._1cdb = function() {
-	this.initialize(ss["dkl4_atlas_12"]);
+	this.initialize(ss["dkl5_atlas_14"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._1cg = function() {
-	this.initialize(ss["dkl4_atlas_12"]);
+	this.initialize(ss["dkl5_atlas_12"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._1clb = function() {
-	this.initialize(ss["dkl4_atlas_13"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib._1cr = function() {
-	this.initialize(ss["dkl4_atlas_13"]);
+	this.initialize(ss["dkl5_atlas_14"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
+(lib._1cr = function() {
+	this.initialize(ss["dkl5_atlas_13"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib._1cw = function() {
-	this.initialize(ss["dkl4_atlas_14"]);
+	this.initialize(ss["dkl5_atlas_13"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._1mbk = function() {
-	this.initialize(ss["dkl4_atlas_16"]);
+	this.initialize(ss["dkl5_atlas_16"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._1mdb = function() {
-	this.initialize(ss["dkl4_atlas_16"]);
+	this.initialize(ss["dkl5_atlas_16"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._1mg = function() {
-	this.initialize(ss["dkl4_atlas_15"]);
+	this.initialize(ss["dkl5_atlas_15"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._1mlb = function() {
-	this.initialize(ss["dkl4_atlas_17"]);
+	this.initialize(ss["dkl5_atlas_17"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._1mrpngcopy2 = function() {
-	this.initialize(ss["dkl4_atlas_17"]);
+	this.initialize(ss["dkl5_atlas_17"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._1mw = function() {
-	this.initialize(ss["dkl4_atlas_15"]);
+	this.initialize(ss["dkl5_atlas_15"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._3cbk = function() {
-	this.initialize(ss["dkl4_atlas_"]);
+	this.initialize(ss["dkl5_atlas_"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._3cdb = function() {
-	this.initialize(ss["dkl4_atlas_2"]);
+	this.initialize(ss["dkl5_atlas_2"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -140,63 +140,63 @@ p.nominalBounds = new cjs.Rectangle(0,0,1391,943);
 
 
 (lib._3clb = function() {
-	this.initialize(ss["dkl4_atlas_3"]);
+	this.initialize(ss["dkl5_atlas_5"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._3cr = function() {
-	this.initialize(ss["dkl4_atlas_4"]);
+	this.initialize(ss["dkl5_atlas_3"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._3cw = function() {
-	this.initialize(ss["dkl4_atlas_5"]);
+	this.initialize(ss["dkl5_atlas_4"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._3mbk = function() {
-	this.initialize(ss["dkl4_atlas_11"]);
+	this.initialize(ss["dkl5_atlas_7"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._3mdb = function() {
-	this.initialize(ss["dkl4_atlas_10"]);
+	this.initialize(ss["dkl5_atlas_8"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._3mg = function() {
-	this.initialize(ss["dkl4_atlas_6"]);
+	this.initialize(ss["dkl5_atlas_6"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._3mlb = function() {
-	this.initialize(ss["dkl4_atlas_7"]);
+	this.initialize(ss["dkl5_atlas_9"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._3mr = function() {
-	this.initialize(ss["dkl4_atlas_8"]);
+	this.initialize(ss["dkl5_atlas_10"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib._3mw = function() {
-	this.initialize(ss["dkl4_atlas_9"]);
+	this.initialize(ss["dkl5_atlas_11"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -209,180 +209,180 @@ p.nominalBounds = new cjs.Rectangle(0,0,1920,1080);
 
 
 (lib.BGCOLOURS = function() {
-	this.initialize(ss["dkl4_atlas_18"]);
+	this.initialize(ss["dkl5_atlas_18"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_32 = function() {
-	this.initialize(ss["dkl4_atlas_17"]);
-	this.gotoAndStop(2);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_33 = function() {
-	this.initialize(ss["dkl4_atlas_18"]);
+(lib.CachedTexturedBitmap_101 = function() {
+	this.initialize(ss["dkl5_atlas_18"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_34 = function() {
-	this.initialize(ss["dkl4_atlas_18"]);
+(lib.CachedTexturedBitmap_103 = function() {
+	this.initialize(ss["dkl5_atlas_19"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_104 = function() {
+	this.initialize(ss["dkl5_atlas_18"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_39 = function() {
-	this.initialize(ss["dkl4_atlas_18"]);
+(lib.CachedTexturedBitmap_105 = function() {
+	this.initialize(ss["dkl5_atlas_18"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_41 = function() {
-	this.initialize(ss["dkl4_atlas_18"]);
+(lib.CachedTexturedBitmap_106 = function() {
+	this.initialize(ss["dkl5_atlas_18"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_42 = function() {
-	this.initialize(ss["dkl4_atlas_18"]);
-	this.gotoAndStop(5);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_43 = function() {
-	this.initialize(ss["dkl4_atlas_19"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_44 = function() {
-	this.initialize(ss["dkl4_atlas_18"]);
-	this.gotoAndStop(6);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_48 = function() {
-	this.initialize(ss["dkl4_atlas_19"]);
+(lib.CachedTexturedBitmap_110 = function() {
+	this.initialize(ss["dkl5_atlas_19"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_49 = function() {
-	this.initialize(ss["dkl4_atlas_19"]);
+(lib.CachedTexturedBitmap_111 = function() {
+	this.initialize(ss["dkl5_atlas_19"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_50 = function() {
-	this.initialize(ss["dkl4_atlas_19"]);
+(lib.CachedTexturedBitmap_112 = function() {
+	this.initialize(ss["dkl5_atlas_19"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_51 = function() {
-	this.initialize(ss["dkl4_atlas_18"]);
+(lib.CachedTexturedBitmap_113 = function() {
+	this.initialize(ss["dkl5_atlas_18"]);
+	this.gotoAndStop(5);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_115 = function() {
+	this.initialize(img.CachedTexturedBitmap_115);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,3408,2202);
+
+
+(lib.CachedTexturedBitmap_116 = function() {
+	this.initialize(img.CachedTexturedBitmap_116);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,1709,688);
+
+
+(lib.CachedTexturedBitmap_117 = function() {
+	this.initialize(ss["dkl5_atlas_18"]);
+	this.gotoAndStop(6);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_118 = function() {
+	this.initialize(ss["dkl5_atlas_18"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_53 = function() {
-	this.initialize(img.CachedTexturedBitmap_53);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,3408,2202);
-
-
-(lib.CachedTexturedBitmap_54 = function() {
-	this.initialize(img.CachedTexturedBitmap_54);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,1709,688);
-
-
-(lib.CachedTexturedBitmap_55 = function() {
-	this.initialize(ss["dkl4_atlas_18"]);
+(lib.CachedTexturedBitmap_119 = function() {
+	this.initialize(ss["dkl5_atlas_18"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_56 = function() {
-	this.initialize(ss["dkl4_atlas_18"]);
+(lib.CachedTexturedBitmap_121 = function() {
+	this.initialize(ss["dkl5_atlas_18"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_57 = function() {
-	this.initialize(ss["dkl4_atlas_18"]);
+(lib.CachedTexturedBitmap_122 = function() {
+	this.initialize(ss["dkl5_atlas_18"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_59 = function() {
-	this.initialize(ss["dkl4_atlas_18"]);
+(lib.CachedTexturedBitmap_123 = function() {
+	this.initialize(ss["dkl5_atlas_18"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_60 = function() {
-	this.initialize(ss["dkl4_atlas_18"]);
+(lib.CachedTexturedBitmap_124 = function() {
+	this.initialize(ss["dkl5_atlas_18"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_61 = function() {
-	this.initialize(ss["dkl4_atlas_18"]);
+(lib.CachedTexturedBitmap_94 = function() {
+	this.initialize(ss["dkl5_atlas_17"]);
+	this.gotoAndStop(2);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_95 = function() {
+	this.initialize(ss["dkl5_atlas_18"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_62 = function() {
-	this.initialize(ss["dkl4_atlas_18"]);
+(lib.CachedTexturedBitmap_96 = function() {
+	this.initialize(ss["dkl5_atlas_18"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CenturyGothic = function() {
-	this.initialize(ss["dkl4_atlas_18"]);
+	this.initialize(ss["dkl5_atlas_18"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.COLOUR = function() {
-	this.initialize(ss["dkl4_atlas_18"]);
+	this.initialize(ss["dkl5_atlas_18"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.darkblue = function() {
-	this.initialize(ss["dkl4_atlas_19"]);
+	this.initialize(ss["dkl5_atlas_19"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.darkbluecopy = function() {
-	this.initialize(ss["dkl4_atlas_19"]);
+	this.initialize(ss["dkl5_atlas_19"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
@@ -395,7 +395,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,2403,1436);
 
 
 (lib.goldcopy = function() {
-	this.initialize(ss["dkl4_atlas_19"]);
+	this.initialize(ss["dkl5_atlas_19"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
@@ -408,21 +408,21 @@ p.nominalBounds = new cjs.Rectangle(0,0,2403,1436);
 
 
 (lib.lightblue = function() {
-	this.initialize(ss["dkl4_atlas_18"]);
+	this.initialize(ss["dkl5_atlas_18"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.lightbluecopy = function() {
-	this.initialize(ss["dkl4_atlas_18"]);
+	this.initialize(ss["dkl5_atlas_18"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.MuseoSans = function() {
-	this.initialize(ss["dkl4_atlas_18"]);
+	this.initialize(ss["dkl5_atlas_18"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
@@ -435,14 +435,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,2403,1436);
 
 
 (lib.redcopy = function() {
-	this.initialize(ss["dkl4_atlas_19"]);
+	this.initialize(ss["dkl5_atlas_19"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.redcopy2 = function() {
-	this.initialize(ss["dkl4_atlas_19"]);
+	this.initialize(ss["dkl5_atlas_19"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
@@ -455,14 +455,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,2403,1436);
 
 
 (lib.whitecopy = function() {
-	this.initialize(ss["dkl4_atlas_19"]);
+	this.initialize(ss["dkl5_atlas_19"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.whitecopy2 = function() {
-	this.initialize(ss["dkl4_atlas_19"]);
+	this.initialize(ss["dkl5_atlas_19"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
@@ -494,7 +494,7 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(4));
 
 	// Layer_2
-	this.instance_1 = new lib.CachedTexturedBitmap_62();
+	this.instance_1 = new lib.CachedTexturedBitmap_124();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-12,-4,0.5,0.5);
 
@@ -508,15 +508,15 @@ p.nominalBounds = new cjs.Rectangle(-12,-4,225.5,37);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer_1
-	this.instance = new lib.CachedTexturedBitmap_59();
+	this.instance = new lib.CachedTexturedBitmap_121();
 	this.instance.parent = this;
 	this.instance.setTransform(0,0,0.5,0.5);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_60();
+	this.instance_1 = new lib.CachedTexturedBitmap_122();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(0,0,0.5,0.5);
 
-	this.instance_2 = new lib.CachedTexturedBitmap_61();
+	this.instance_2 = new lib.CachedTexturedBitmap_123();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(0,0,0.5,0.5);
 
@@ -530,22 +530,22 @@ p.nominalBounds = new cjs.Rectangle(0,0,473,38);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer_1
-	this.instance = new lib.CachedTexturedBitmap_55();
+	this.instance = new lib.CachedTexturedBitmap_117();
 	this.instance.parent = this;
 	this.instance.setTransform(0,0,0.5,0.5);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_56();
+	this.instance_1 = new lib.CachedTexturedBitmap_118();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(0,0,0.5,0.5);
 
-	this.instance_2 = new lib.CachedTexturedBitmap_57();
+	this.instance_2 = new lib.CachedTexturedBitmap_119();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(0,0,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance}]}).to({state:[{t:this.instance_1}]},1).to({state:[{t:this.instance_2}]},1).wait(2));
 
 	// Layer_2
-	this.instance_3 = new lib.CachedTexturedBitmap_62();
+	this.instance_3 = new lib.CachedTexturedBitmap_124();
 	this.instance_3.parent = this;
 	this.instance_3.setTransform(-12,0,0.5,0.5);
 
@@ -559,11 +559,11 @@ p.nominalBounds = new cjs.Rectangle(-12,0,225.5,38);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer_1
-	this.instance = new lib.CachedTexturedBitmap_54();
+	this.instance = new lib.CachedTexturedBitmap_116();
 	this.instance.parent = this;
 	this.instance.setTransform(425.85,349.8,0.5,0.5);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_53();
+	this.instance_1 = new lib.CachedTexturedBitmap_115();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(0,0,0.5,0.5);
 
@@ -615,11 +615,11 @@ p.nominalBounds = new cjs.Rectangle(0,0,1704,1101);
 	this.initialize(mode,startPosition,loop,{});
 
 	// design
-	this.instance = new lib.CachedTexturedBitmap_33();
+	this.instance = new lib.CachedTexturedBitmap_95();
 	this.instance.parent = this;
 	this.instance.setTransform(15.8,239,0.5,0.5);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_32();
+	this.instance_1 = new lib.CachedTexturedBitmap_94();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(15.85,44.2,0.5,0.5);
 
@@ -662,7 +662,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,1704,1101);
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(4));
 
 	// Layer_2
-	this.instance_1 = new lib.CachedTexturedBitmap_62();
+	this.instance_1 = new lib.CachedTexturedBitmap_124();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-12,-4,0.5,0.5);
 
@@ -676,22 +676,22 @@ p.nominalBounds = new cjs.Rectangle(-12,-4,225.5,37);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer_2
-	this.instance = new lib.CachedTexturedBitmap_48();
+	this.instance = new lib.CachedTexturedBitmap_110();
 	this.instance.parent = this;
 	this.instance.setTransform(7,-10.45,0.5,0.5);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_49();
+	this.instance_1 = new lib.CachedTexturedBitmap_111();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(7,-10.45,0.5,0.5);
 
-	this.instance_2 = new lib.CachedTexturedBitmap_50();
+	this.instance_2 = new lib.CachedTexturedBitmap_112();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(7,-10.45,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance}]}).to({state:[{t:this.instance_1}]},1).to({state:[{t:this.instance_2}]},1).wait(2));
 
 	// Layer_3
-	this.instance_3 = new lib.CachedTexturedBitmap_51();
+	this.instance_3 = new lib.CachedTexturedBitmap_113();
 	this.instance_3.parent = this;
 	this.instance_3.setTransform(0,0,0.5,0.5);
 
@@ -717,7 +717,7 @@ p.nominalBounds = new cjs.Rectangle(0,-10.4,167,42);
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(4));
 
 	// Layer_2
-	this.instance_1 = new lib.CachedTexturedBitmap_62();
+	this.instance_1 = new lib.CachedTexturedBitmap_124();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-12,-4,0.5,0.5);
 
@@ -1037,7 +1037,7 @@ p.nominalBounds = new cjs.Rectangle(-12,-4,225.5,37);
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(4));
 
 	// Layer_2
-	this.instance_1 = new lib.CachedTexturedBitmap_62();
+	this.instance_1 = new lib.CachedTexturedBitmap_124();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-12,-4,0.5,0.5);
 
@@ -1069,7 +1069,7 @@ p.nominalBounds = new cjs.Rectangle(-12,-4,225.5,37);
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(4));
 
 	// Layer_2
-	this.instance_1 = new lib.CachedTexturedBitmap_62();
+	this.instance_1 = new lib.CachedTexturedBitmap_124();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-12,-4,0.5,0.5);
 
@@ -1095,22 +1095,22 @@ p.nominalBounds = new cjs.Rectangle(-12,-4,225.5,37);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer_2
-	this.instance = new lib.CachedTexturedBitmap_41();
+	this.instance = new lib.CachedTexturedBitmap_103();
 	this.instance.parent = this;
 	this.instance.setTransform(7,-10.45,0.5,0.5);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_42();
+	this.instance_1 = new lib.CachedTexturedBitmap_104();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(7,-10.45,0.5,0.5);
 
-	this.instance_2 = new lib.CachedTexturedBitmap_43();
+	this.instance_2 = new lib.CachedTexturedBitmap_105();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(7,-10.45,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance}]}).to({state:[{t:this.instance_1}]},1).to({state:[{t:this.instance_2}]},1).wait(2));
 
 	// Layer_3
-	this.instance_3 = new lib.CachedTexturedBitmap_44();
+	this.instance_3 = new lib.CachedTexturedBitmap_106();
 	this.instance_3.parent = this;
 	this.instance_3.setTransform(0,-4,0.5,0.5);
 
@@ -1130,14 +1130,14 @@ p.nominalBounds = new cjs.Rectangle(0,-10.4,229,42);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer_1
-	this.instance = new lib.CachedTexturedBitmap_39();
+	this.instance = new lib.CachedTexturedBitmap_101();
 	this.instance.parent = this;
 	this.instance.setTransform(0,0,0.5,0.5);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(4));
 
 	// Layer_2
-	this.instance_1 = new lib.CachedTexturedBitmap_62();
+	this.instance_1 = new lib.CachedTexturedBitmap_124();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-12,2,0.5,0.5);
 
@@ -1157,7 +1157,7 @@ p.nominalBounds = new cjs.Rectangle(-12,0,225.5,42);
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(4));
 
 	// Layer_2
-	this.instance_1 = new lib.CachedTexturedBitmap_62();
+	this.instance_1 = new lib.CachedTexturedBitmap_124();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-12,-4,0.5,0.5);
 
@@ -1177,7 +1177,7 @@ p.nominalBounds = new cjs.Rectangle(-12,-4,225.5,37);
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(4));
 
 	// Layer_2
-	this.instance_1 = new lib.CachedTexturedBitmap_62();
+	this.instance_1 = new lib.CachedTexturedBitmap_124();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-12,-4,0.5,0.5);
 
@@ -1197,7 +1197,7 @@ p.nominalBounds = new cjs.Rectangle(-12,-4,225.5,37);
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(4));
 
 	// Layer_2
-	this.instance_1 = new lib.CachedTexturedBitmap_62();
+	this.instance_1 = new lib.CachedTexturedBitmap_124();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-12,-4,0.5,0.5);
 
@@ -1217,7 +1217,7 @@ p.nominalBounds = new cjs.Rectangle(-12,-4,225.5,37);
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(4));
 
 	// Layer_2
-	this.instance_1 = new lib.CachedTexturedBitmap_62();
+	this.instance_1 = new lib.CachedTexturedBitmap_124();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(-12,-4,0.5,0.5);
 
@@ -1311,7 +1311,7 @@ p.nominalBounds = new cjs.Rectangle(-12,-4,225.5,37);
 	this.initialize(mode,startPosition,loop,{});
 
 	// museo
-	this.instance = new lib.CachedTexturedBitmap_34();
+	this.instance = new lib.CachedTexturedBitmap_96();
 	this.instance.parent = this;
 	this.instance.setTransform(112.2,261.95,0.5,0.5);
 
@@ -2460,8 +2460,9 @@ p.nominalBounds = new cjs.Rectangle(-12,-4,225.5,37);
 	this.fuck.name = "fuck";
 	this.fuck.parent = this;
 	this.fuck.setTransform(1214.5,464,1,1,0,0,0,694.5,491);
+	this.fuck.alpha = 0;
 
-	this.timeline.addTween(cjs.Tween.get(this.fuck).wait(6));
+	this.timeline.addTween(cjs.Tween.get(this.fuck).wait(5).to({alpha:1},0).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
 
@@ -2496,7 +2497,7 @@ p.nominalBounds = new cjs.Rectangle(-12,-4,225.5,37);
 
 
 // stage content:
-(lib.dkl4 = function(mode,startPosition,loop) {
+(lib.dkl5 = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{});
 
 	this.___GetDepth___ = function(obj) {
@@ -3141,6 +3142,8 @@ p.nominalBounds = new cjs.Rectangle(-12,-4,225.5,37);
 		this.one_m_g = this.onegm.one_m_g;
 		this.one_c_w = this.onewc.one_c_w;
 		this.one_m_w = this.onewm.one_m_w;
+		if(this.fuck.parent == undefined || this.fuck.parent == this)
+		this.fuck = this.fuck.fuck;
 		if(this.cgtres.parent == undefined || this.cgtres.parent == this)
 		this.cgtres = this.cgtres.cgtres;
 		if(this.threegm.parent == undefined || this.threegm.parent == this)
@@ -3831,7 +3834,7 @@ p.nominalBounds = new cjs.Rectangle(-12,-4,225.5,37);
 p.nominalBounds = new cjs.Rectangle(960,447,1750,922);
 // library properties:
 lib.properties = {
-	id: 'F137EF6247904364A3A0910198B19190',
+	id: '84090802CAE24B10AC63F59BB30D64BE',
 	width: 1920,
 	height: 1080,
 	fps: 24,
@@ -3841,31 +3844,31 @@ lib.properties = {
 		{src:"images/_3cg1.png", id:"_3cg1"},
 		{src:"images/_3cg.png", id:"_3cg"},
 		{src:"images/Background.png", id:"Background"},
-		{src:"images/CachedTexturedBitmap_53.png", id:"CachedTexturedBitmap_53"},
-		{src:"images/CachedTexturedBitmap_54.png", id:"CachedTexturedBitmap_54"},
+		{src:"images/CachedTexturedBitmap_115.png", id:"CachedTexturedBitmap_115"},
+		{src:"images/CachedTexturedBitmap_116.png", id:"CachedTexturedBitmap_116"},
 		{src:"images/dbbg.png", id:"dbbg"},
 		{src:"images/lbbg.png", id:"lbbg"},
 		{src:"images/rbg.png", id:"rbg"},
 		{src:"images/wbg.png", id:"wbg"},
-		{src:"images/dkl4_atlas_.png", id:"dkl4_atlas_"},
-		{src:"images/dkl4_atlas_2.png", id:"dkl4_atlas_2"},
-		{src:"images/dkl4_atlas_3.png", id:"dkl4_atlas_3"},
-		{src:"images/dkl4_atlas_4.png", id:"dkl4_atlas_4"},
-		{src:"images/dkl4_atlas_5.png", id:"dkl4_atlas_5"},
-		{src:"images/dkl4_atlas_6.png", id:"dkl4_atlas_6"},
-		{src:"images/dkl4_atlas_7.png", id:"dkl4_atlas_7"},
-		{src:"images/dkl4_atlas_8.png", id:"dkl4_atlas_8"},
-		{src:"images/dkl4_atlas_9.png", id:"dkl4_atlas_9"},
-		{src:"images/dkl4_atlas_10.png", id:"dkl4_atlas_10"},
-		{src:"images/dkl4_atlas_11.png", id:"dkl4_atlas_11"},
-		{src:"images/dkl4_atlas_12.png", id:"dkl4_atlas_12"},
-		{src:"images/dkl4_atlas_13.png", id:"dkl4_atlas_13"},
-		{src:"images/dkl4_atlas_14.png", id:"dkl4_atlas_14"},
-		{src:"images/dkl4_atlas_15.png", id:"dkl4_atlas_15"},
-		{src:"images/dkl4_atlas_16.png", id:"dkl4_atlas_16"},
-		{src:"images/dkl4_atlas_17.png", id:"dkl4_atlas_17"},
-		{src:"images/dkl4_atlas_18.png", id:"dkl4_atlas_18"},
-		{src:"images/dkl4_atlas_19.png", id:"dkl4_atlas_19"}
+		{src:"images/dkl5_atlas_.png", id:"dkl5_atlas_"},
+		{src:"images/dkl5_atlas_2.png", id:"dkl5_atlas_2"},
+		{src:"images/dkl5_atlas_3.png", id:"dkl5_atlas_3"},
+		{src:"images/dkl5_atlas_4.png", id:"dkl5_atlas_4"},
+		{src:"images/dkl5_atlas_5.png", id:"dkl5_atlas_5"},
+		{src:"images/dkl5_atlas_6.png", id:"dkl5_atlas_6"},
+		{src:"images/dkl5_atlas_7.png", id:"dkl5_atlas_7"},
+		{src:"images/dkl5_atlas_8.png", id:"dkl5_atlas_8"},
+		{src:"images/dkl5_atlas_9.png", id:"dkl5_atlas_9"},
+		{src:"images/dkl5_atlas_10.png", id:"dkl5_atlas_10"},
+		{src:"images/dkl5_atlas_11.png", id:"dkl5_atlas_11"},
+		{src:"images/dkl5_atlas_12.png", id:"dkl5_atlas_12"},
+		{src:"images/dkl5_atlas_13.png", id:"dkl5_atlas_13"},
+		{src:"images/dkl5_atlas_14.png", id:"dkl5_atlas_14"},
+		{src:"images/dkl5_atlas_15.png", id:"dkl5_atlas_15"},
+		{src:"images/dkl5_atlas_16.png", id:"dkl5_atlas_16"},
+		{src:"images/dkl5_atlas_17.png", id:"dkl5_atlas_17"},
+		{src:"images/dkl5_atlas_18.png", id:"dkl5_atlas_18"},
+		{src:"images/dkl5_atlas_19.png", id:"dkl5_atlas_19"}
 	],
 	preloads: []
 };
@@ -3903,7 +3906,7 @@ an.bootstrapCallback=function(fnCallback) {
 };
 
 an.compositions = an.compositions || {};
-an.compositions['F137EF6247904364A3A0910198B19190'] = {
+an.compositions['84090802CAE24B10AC63F59BB30D64BE'] = {
 	getStage: function() { return exportRoot.getStage(); },
 	getLibrary: function() { return lib; },
 	getSpriteSheet: function() { return ss; },
